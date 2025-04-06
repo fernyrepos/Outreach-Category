@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Outreach Category</name>
+	<author>ferny</author>
+	<packageId>ferny.outreachcategory</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Adds a new category focused on outreach into the world.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>vanillaexpanded.vanillatradingexpanded</li>
+		<li>sindre0830.rimnauts2</li>
+		<li>sarg.alphamechs</li>
+		<li>oskarpotocki.vfe.deserters</li>
+		<li>oskarpotocki.vfe.classical</li>		
+		<li>com.bymarcin.architecticons</li>
+		<li>dankpyon.medieval.overhaul</li>
+		<li>oskarpotocki.vfe.insectoid2</li>
+		<li>sarg.alphaprefabs</li>
+	</loadAfter>
+</ModMetaData>

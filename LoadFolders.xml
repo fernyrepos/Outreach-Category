@@ -1,0 +1,26 @@
+<loadFolders>
+  <v1.4>
+    <li>/</li>
+    <li IfModActive="vanillaexpanded.vanillatradingexpanded">Mods and Shit/VE Trading</li>
+    <li IfModActive="sindre0830.rimnauts2">Mods and Shit/Rimnauts 2</li>
+    <li IfModActive="sarg.alphamechs">Mods and Shit/Alpha Mechs</li>
+    <li IfModActive="ludeon.rimworld.biotech">Mods and Shit/Biotech</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="oskarpotocki.vfe.deserters">Mods and Shit/VFE Deserters</li>
+    <li IfModActive="oskarpotocki.vfe.classical">Mods and Shit/VFE Classical</li>
+    <li IfModActive="oskarpotocki.vfe.insectoid2">Mods and Shit/VFE Insectoids 2</li>
+    <li IfModActive="sarg.alphaprefabs">Mods and Shit/Alpha Prefabs</li>
+  </v1.4>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="vanillaexpanded.vanillatradingexpanded">Mods and Shit/VE Trading</li>
+    <li IfModActive="sindre0830.rimnauts2">Mods and Shit/Rimnauts 2</li>
+    <li IfModActive="sarg.alphamechs">Mods and Shit/Alpha Mechs</li>
+    <li IfModActive="ludeon.rimworld.biotech">Mods and Shit/Biotech</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="oskarpotocki.vfe.deserters">Mods and Shit/VFE Deserters</li>
+    <li IfModActive="oskarpotocki.vfe.classical">Mods and Shit/VFE Classical</li>
+    <li IfModActive="oskarpotocki.vfe.insectoid2">Mods and Shit/VFE Insectoids 2</li>
+    <li IfModActive="sarg.alphaprefabs">Mods and Shit/Alpha Prefabs</li>
+  </v1.5>
+</loadFolders>
